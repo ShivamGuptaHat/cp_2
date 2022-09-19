@@ -1,0 +1,51 @@
+Graph Theory
+    BFS
+        https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
+    DFS
+        https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1/
+
+    Detect Cycle in Directed graph
+        https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1
+        Algo: DFS(with store path), BFS(topological order algorithm)
+    Detect Cycle in undirected graph
+        https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1/
+        Algo: DFS, BFS
+    Count number of Islands
+        https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1/
+        Algo: DFS, BFS
+
+    ***
+
+    Topological sorting(DAG)
+        https://practice.geeksforgeeks.org/problems/topological-sort/1
+        DFS
+        https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/tutorial/
+        BFS
+
+    SCC
+        https://www.hackerearth.com/practice/algorithms/graphs/strongly-connected-components/tutorial/
+        https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1              **
+        Algo: 2 pass  DFS
+        Explanation: DFS1 : normal dfs
+                     DFS2 : reverse dfs
+
+    MST
+
+        https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/
+        Algo: Kruskals(Edges given), Prims(implement comparable in node)
+
+
+
+
+Leetcode:
+
+https://leetcode.com/problems/min-cost-climbing-stairs/description/
+https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/
+https://leetcode.com/problems/matrix-block-sum/description/
+https://leetcode.com/problems/validate-binary-search-tree/
+https://leetcode.com/problems/maximal-rectangle/submissions/
+
+
+
+
+
